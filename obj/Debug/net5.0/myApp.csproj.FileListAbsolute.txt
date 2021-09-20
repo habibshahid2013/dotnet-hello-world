@@ -1,0 +1,15 @@
+/Users/sansanfiles/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/sansanfiles/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/sansanfiles/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/sansanfiles/myApp/bin/Debug/net5.0/myApp.dll
+/Users/sansanfiles/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/sansanfiles/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.dll
+/Users/sansanfiles/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/sansanfiles/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
